@@ -9,7 +9,7 @@ Pneumonia is a severe lung infection that can be fatal if left undiagnosed or un
 - Apply data preprocessing, augmentation, and normalization to prepare images for training
 - Build a deep learning model using VGG-16 to detect pneumonia
 - Evaluate model performance using accuracy, precision, recall, and F1-score
-- Explore the impact of data augmentation on model generalization
+
 
 ## Project Organization
 
